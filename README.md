@@ -1,9 +1,9 @@
 [![Latest release](https://img.shields.io/github/v/release/givemesomething/unmedium?color=facc15)](https://github.com/GiveMeSomething/unmedium/releases)
-# Un-Medium — Modern Reader Mode
+# Sudo-Reader — Modern Reader Mode
 
 Un-Medium is a modern reader mode and article library for your browser, with a few twists!
 
-Thank you [Unclutter](https://github.com/lindylearn/unclutter) for the code base of a great reader
+Thank you [Unclutter](https://github.com/lindylearn/unclutter) and [Unmedium](https://github.com/GiveMeSomething/unmedium) for the code base of a great reader
 
 Also check out [Unmedium Core](https://github.com/GiveMeSomething/unmedium-core) for just the core function (without the web reader)
 
