@@ -1,15 +1,15 @@
 [![Latest release](https://img.shields.io/github/v/release/givemesomething/unmedium?color=facc15)](https://github.com/GiveMeSomething/unmedium/releases)
 # Sudo-Reader — Modern Reader Mode
 
-Un-Medium is a modern reader mode and article library for your browser, with a few twists!
+Sudo-Reader is a modern reader mode and article library for your browser, with a few twists!
 
 Thank you [Unclutter](https://github.com/lindylearn/unclutter) and [Unmedium](https://github.com/GiveMeSomething/unmedium) for the code base of a great reader
 
-Also check out [Unmedium Core](https://github.com/GiveMeSomething/unmedium-core) for just the core function (without the web reader)
+Also check out [Unmedium Core](https://github.com/GiveMeSomething/unmedium-core) for just the core function (without the web reader) by [Minh](https://github.com/GiveMeSomething)
 
 # How to use
 
--   Go to [Releases](https://github.com/GiveMeSomething/unmedium/releases/tag/1.1.0) section and download the ZIP file included with the release (unmedium.zip), then unzip.
+-   Go to [Releases](example.com) section and download the ZIP file included with the release (sudo-reader.zip), then unzip.
 -   Open `Manage extension` and turn on `Developer Mode`.
 -   `Load unpacked` the folder that you have unzip earlier
 
@@ -69,4 +69,4 @@ performance of this software.
 
 ## Disclaimer of Liability:
 
-The information provided in Un-Medium Learning Project is for general informational purposes only. GiveMeSomething assumes no responsibility for errors or omissions in the contents of the project. In no event shall GiveMeSomething be liable for any special, direct, indirect,
+The information provided in Un-Medium Learning Project is for general informational purposes only. Abhinandan-Khurana assumes no responsibility for errors or omissions in the contents of the project. In no event shall Abhinandan-Khurana be liable for any special, direct, indirect,
